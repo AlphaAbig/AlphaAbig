@@ -10,9 +10,10 @@
   <li>⚡ Fun fact i have a goofy sense of humor</li>
 </ul>  
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphaabig&label=Profile%20views&color=0e75b6&style=flat" alt="alphaabig" /> </p>
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlphaAbig"/>
 <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaAbig&layout=compact"/>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <h2>Languages and Tools:<h2/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
