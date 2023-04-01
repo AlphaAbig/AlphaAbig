@@ -2,7 +2,7 @@
 <br>
 <ul>
   <li>🔭 I’m currently a student at ASTU, Ethiopia</li>
-  <li>🌱 I’m also learning ALX Cloud computing </li>
+<!--   <li>🌱 I’m also learning ALX Cloud computing </li> -->
   <li>👯 I’m currently working on projects related to frontend development</li>
   <li>📫 How to reach me <a href="mailto:abigiya1122@gmail.com">abigiya1122@gmail.com</a></li>
   <li>🤝 Connect with me on <a href="https://www.linkedin.com/in/abigiya-terefe-268783233/">Linkedin<a/></li>
