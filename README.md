@@ -1,14 +1,14 @@
 # Hi 👋, I'm Abigiya 
 <br>
 <ul>
-  <li>🔭 I’m currently a student at ASTU, Ethiopia</li>
-  <li>🌱 I am also learning cloud computing, and I even have an <a href="https://www.credly.com/badges/40519681-ffc5-432b-a13b-1aebe523e992/linked_in_profile"> AWS Cloud Practitioner certification</a>.</li>
-  <li>👯 I’m currently working on projects related to frontend development</li>
-  <li>📫 How to reach me <a href="mailto:abigiya1122@gmail.com">abigiya1122@gmail.com</a></li>
-  <li>🤝 Connect with me on <a href="https://www.linkedin.com/in/abigiyaterefe/">Linkedin<a/></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://github.com/AlphaAbig">https://github.com/AlphaAbig<a/></li>
-  <li>⚡ Fun fact i have a goofy sense of humor</li>
-</ul>  
+  <li>🎓 I graduated from Adama Science and Technology University (ASTU) with a degree in Computer Science and Engineering.</li>
+  <li>🌱 I am also learning cloud computing, and I even have an <a href="https://www.credly.com/badges/40519681-ffc5-432b-a13b-1aebe523e992/linked_in_profile">AWS Cloud Practitioner certification</a>.</li>
+  <li>👯 I’m currently working on projects related to frontend development.</li>
+  <li>📫 How to reach me: <a href="mailto:tadesseterefeabigiya@gmail.com">tadesseterefeabigiya@gmail.com</a></li>
+  <li>🤝 Connect with me on <a href="https://www.linkedin.com/in/abigiyaterefe/">LinkedIn</a></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/AlphaAbig">https://github.com/AlphaAbig</a></li>
+  <li>⚡ Fun fact: I have a goofy sense of humor.</li>
+</ul>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphaabig&label=Profile%20views&color=0e75b6&style=flat" alt="alphaabig" /> </p>
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlphaAbig"/>
